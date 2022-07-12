@@ -1,7 +1,7 @@
 About Dataset
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 
-Objective
+**Objective**
 
 The company wants to understand what factors contributed most to employee attrition and to create a model that can predict if a certain employee will leave the company or not. 
 create or improve different retention strategies on targeted employees. Overall, the implementation of this model will allow management to create better decision-making actions.
